@@ -1,0 +1,84 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Alice",
+        "gender": "female",
+        "allTimeEdits": 1200,
+        "weeklyEdits": 15,
+        "profileImage": "profileImg1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Bob",
+        "gender": "male",
+        "allTimeEdits": 800,
+        "weeklyEdits": 25,
+        "profileImage": "profileImg2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Charlie",
+        "gender": "male",
+        "allTimeEdits": 950,
+        "weeklyEdits": 10,
+        "profileImage": "profileImg3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Diana",
+        "gender": "female",
+        "allTimeEdits": 1300,
+        "weeklyEdits": 30,
+        "profileImage": "profileImg4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Eve",
+        "gender": "female",
+        "allTimeEdits": 700,
+        "weeklyEdits": 20,
+        "profileImage": "profileImg5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Frank",
+        "gender": "male",
+        "allTimeEdits": 1100,
+        "weeklyEdits": 22,
+        "profileImage": "profileImg6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Grace",
+        "gender": "female",
+        "allTimeEdits": 900,
+        "weeklyEdits": 18,
+        "profileImage": "profileImg7.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Hank",
+        "gender": "male",
+        "allTimeEdits": 850,
+        "weeklyEdits": 12,
+        "profileImage": "profileImg8.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Ivy",
+        "gender": "female",
+        "allTimeEdits": 1400,
+        "weeklyEdits": 35,
+        "profileImage": ""
+      },
+      {
+        "id": 10,
+        "name": "Jack",
+        "gender": "male",
+        "allTimeEdits": 750,
+        "weeklyEdits": 16,
+        "profileImage": ""
+      }
+    ]
+  }
