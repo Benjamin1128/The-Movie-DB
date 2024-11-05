@@ -7,7 +7,7 @@
         class="footer-logo">
         <br />
         <q-btn no-caps unelevated class="joinCom wrap-text">
-          {{ joinCommunityBtn }}
+          {{ joinCommunityBt
         </q-btn>
       </div>
 
