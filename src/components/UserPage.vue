@@ -355,7 +355,7 @@ export default {
     url("../assets/userpageBG.svg");
   background-blend-mode: overlay;
   align-content: center;
-  margin-top: 3%;
+  margin-top: 2%;
   padding: 5%;
   gap: 50px;
 }

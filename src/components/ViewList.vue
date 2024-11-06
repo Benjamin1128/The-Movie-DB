@@ -68,7 +68,7 @@
     </div>
   </div>
 
-  <!-- Date List -->
+  <!-- Data List -->
   <div v-if="this.showList == false" class="NoDataList">
     There are no items added to the list.
   </div>
@@ -593,7 +593,7 @@ export default {
 <style scoped>
 .AboveSection {
   position: relative;
-  margin-top: 4%;
+  margin-top: 2%;
   padding: 3%;
   color: white;
   background-color: #083454;
