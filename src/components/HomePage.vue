@@ -230,12 +230,14 @@ import { mapGetters, mapActions } from "vuex";
 import LeaderBoard from "/src/components/LeaderBoard.vue";
 import DataList from "/src/components/DataList.vue";
 import OptionsButton from "./OptionsButton.vue";
+import CookieConsent from "./CookieConsent.vue";
 
 export default {
   components: {
     LeaderBoard,
     DataList,
     OptionsButton,
+    CookieConsent,
   },
   data() {
     return {
